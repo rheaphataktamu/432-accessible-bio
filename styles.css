@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+img {
+    height: auto;
+    max-width: 200px;
+}
+
+#univ-des {
+    height: 120px;
+}
+
+.img-container{
+    float:left;
+    padding: 10px;
+}
+.new-line {
+    clear:both;
+}
